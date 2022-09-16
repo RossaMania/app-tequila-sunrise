@@ -232,6 +232,11 @@ footer {
   margin: 25px;
 }
 
+#bibliography-link:hover {
+  color: #fff5a5;
+  text-decoration: none;
+}
+
 @media (max-width: 768px) {
   .hamburger {
     display: block;
